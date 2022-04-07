@@ -1,6 +1,6 @@
 *.py[co]
 *.so
 *.pyd
-*.egg-info
+#*.egg-info
 /build/
 /dist/
