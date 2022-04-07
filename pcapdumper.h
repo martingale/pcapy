@@ -9,7 +9,7 @@
 
 #ifndef __pcapdumper__
 #define __pcapdumper__
-
+#define PY_SSIZE_T_CLEAN
 
 PyObject*
 new_pcapdumper(pcap_dumper_t *dumper);
